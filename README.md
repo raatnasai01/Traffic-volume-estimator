@@ -12,7 +12,9 @@ Traffic-volume-estimator/
 ├── app.py # Flask web application
 ├── model.pkl 
 ├── static/
+
 │ └── images/
+
 │ ├── Car.jpg 
 │ └── Traffic.jpg
 ├── templates/
